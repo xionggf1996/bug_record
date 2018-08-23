@@ -1,0 +1,10 @@
+ubuntu 中自带PPA包
+安装方法：sudo add-apt-repository ppa:n-muench/programs-ppa
+升级：sudo apt-get update
+
+PPA提供三条指令：
+1.sudo apt-get  
+2.sudo apt-get update
+3.sudo apt-get install  
+
+安装filezila ：sudo apt-get install filezilla
