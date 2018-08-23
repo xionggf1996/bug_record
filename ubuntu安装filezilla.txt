@@ -6,5 +6,8 @@ PPA提供三条指令：
 1.sudo apt-get  
 2.sudo apt-get update
 3.sudo apt-get install  
+其中，第一行的代码后面加上    获得安装软件的地址
+第二行为更新系统源地址
+第三行为安装软件
 
 安装filezila ：sudo apt-get install filezilla
